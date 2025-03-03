@@ -1,8 +1,6 @@
 # 📝 Apps Suggestions
 
-bitwarden<br>https://github.com/bitwarden/android
-
-brave<br>https://github.com/brave/brave-browser
+bitwarden<br>https://github.com/bitwarden/android<br>brave<br>https://github.com/brave/brave-browser
 
 fossify
 
