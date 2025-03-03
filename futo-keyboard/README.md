@@ -6,9 +6,10 @@ https://keyboard.futo.org
 			- Explore and download the multilingual-74 model
 			- Import it
 - Keyboard & typing
+	- Enable show number row
 	- Long-press keys & spacebar
-		- Spacebar behavior -> Swiping and long-pressing only moves cursor
 		- Layout of long-press keys -> Disable all
+		- Spacebar behavior -> Swiping and long-pressing only moves cursor
 	- Edit actions
 		- Action key -> Voice input
 		- Pinned actions -> Language switch key, undo, redo, select all, cut to clipboard, copy to clipboard, paste from clipboard, emojis
