@@ -2,6 +2,7 @@
 
 bitwarden
 https://github.com/bitwarden/android
+
 brave
 https://github.com/brave/brave-browser
 fossify
