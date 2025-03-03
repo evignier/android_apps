@@ -23,6 +23,7 @@ https://grayjay.app
 	- Disable planned content notifications
 - External storage
 	- Set external downloads directory to /home/grayjay
+- Auto Update
 	- Enable background download
 - Gesture controls
 	- Enable system brightness
