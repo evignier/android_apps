@@ -13,18 +13,20 @@
 - Notifications
 	- Disable bubbles
 	- Notifications on lock screen -> Don't show any notifications
+  	- Flash notifications
+  		- Enable camera flash if needed
 	- Disable notification dot on app icon
 	- Disable enhanced notifications
 - Sound & vibration
 	- Set volumes to the lowest
-	- Set ringtone to none
+	- Set ringtone to Eridani
 	- Disable three media features
 	- Vibration & haptics
 		- Set vibrations to the lowest
 		- Disable touch feedback and media vibration
 		- Disable keyboard vibration
-	- Set notification sound to none
-	- Set alarm sound to none
+	- Set notification sound to Space Seed
+	- Set alarm sound to Helium
 	- Disable dial pad tones
 	- Disable screen locking sound
 	- Disable charging sounds and vibration
@@ -64,6 +66,8 @@
 - Accesibility
 	- Color and motion
 		- Remove animations
+  	- Flash notifications
+  		- Enable camera flash if needed
 - Tiles arrangement
 	- Internet, Bluetooth, Dark theme, One-handed mode, Location, Airplane mode, Flashlight, Hotspot
 - Delete unnecesary directories
