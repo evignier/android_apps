@@ -37,6 +37,9 @@ Video streaming
 [![Immich](logos/immich.png)](https://github.com/immich-app/immich)
 Photo manager
 
+[![Librera reader](logos/librera.png)](https://github.com/foobnix/LibreraReader)
+eBook reader
+
 [![Libretorrent](logos/libretorrent.png)](https://github.com/proninyaroslav/libretorrent)
 Torrent client
 
