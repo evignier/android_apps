@@ -55,6 +55,9 @@ Note-taking tool
 [![Simplelogin](logos/simplelogin.png)](https://github.com/simple-login/Simple-Login-Android)
 Anti-spam tool
 
+[![Stremio](logos/stremio.png)](https://www.stremio.com/downloads)
+Torrent streaming client
+
 [![Syncthing](logos/syncthing.png)](https://github.com/syncthing/syncthing-android)
 File sync tool
 
