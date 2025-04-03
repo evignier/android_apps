@@ -37,9 +37,6 @@ Video streaming
 [![Immich](logos/immich.png)](https://github.com/immich-app/immich)
 Photo manager
 
-[![Joplin](logos/joplin.png)](https://github.com/laurent22/joplin-android)
-Note-taking tool
-
 [![Libretorrent](logos/libretorrent.png)](https://github.com/proninyaroslav/libretorrent)
 Torrent client
 
@@ -51,6 +48,9 @@ App store
 
 [![Organic Maps](logos/organic_maps.png)](https://github.com/organicmaps/organicmaps)
 GPS navigation service
+
+[![Print(Notes)](logos/print_notes.png)](https://github.com/RoBoT095/printnotes)
+Note-taking tool
 
 [![Simplelogin](logos/simplelogin.png)](https://github.com/simple-login/Simple-Login-Android)
 Anti-spam tool
