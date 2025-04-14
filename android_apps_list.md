@@ -1,4 +1,4 @@
-![bitwarden](logos/bitwarden.png)](https://github.com/bitwarden/android)
+[![bitwarden](logos/bitwarden.png)](https://github.com/bitwarden/android)
 Password manager
 
 [![brave](logos/brave.png)](https://github.com/brave/brave-browser)
